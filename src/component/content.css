@@ -6,7 +6,7 @@ main{
     background-repeat: no-repeat;
     background-size: 200px;
     background-position-x: right;
-    background-position-y: top;
+    background-position-y: bottom;
     filter: grayscale(100%);
 }
 ul>li::marker{

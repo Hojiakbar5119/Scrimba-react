@@ -6,17 +6,13 @@ class Hello extends React.Component {
     return (
       <main>
         <h1>Main Component uchun </h1>
-        <div>
-          <h1>My awesome website in React</h1>
-          <h1>I love React</h1>
-          <ol>
-            <li>It's composable</li>
-            <li>It's declarative</li>
-            <li>It's a heriable skills</li>
-            <li>It's a heriable skills</li>
-          </ol>
-          <small>@ abdulhakimov The allrigth reserved</small>
-        </div>
+        <ul>
+          <li>Was first released in 2013</li>
+          <li>Was originally created by Jordan Walke</li>
+          <li>Has well over 100K stars on GitHub</li>
+          <li>Is maintained by Facebook</li>
+          <li>Powers thousands of enterprise apps, including mobile apps</li>
+        </ul>
       </main>
     );
   }

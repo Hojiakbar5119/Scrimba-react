@@ -1,0 +1,32 @@
+nav {
+  display: flex;
+  align-items: center;
+  min-width: 100vw;
+  justify-content: space-between;
+  background-color: #141414;
+  /* border: 1px solid white; */
+  padding: 10px 0;
+}
+
+
+nav img {
+  width: 70px;
+  margin-left: 40px;
+}
+
+nav>div {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+nav h3 {
+  font-size: 2.2rem;
+  color: #5fa9fe;
+}
+
+nav>h4 {
+  color: rgb(226, 225, 225);
+  font-size: 1.8rem;
+  margin-right: 40px;
+}

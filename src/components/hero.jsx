@@ -12,6 +12,7 @@ class Hero extends React.Component {
             Join unique interactive activities led by one-of-a-kind hosts—all
             without leaving home.
           </p>
+          <p>Salom dunyo</p>
         </section>
       </div>
     );
